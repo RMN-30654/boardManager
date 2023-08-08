@@ -14,8 +14,37 @@
         "checksum": "SHA-256:d15386308dc72f94816ce80b5508af999f2fd0d88eb5e1ffba48316ab0b9c5d6",
         "size": "250401265"
         },
-
         
+        {
+          "name": "stm32_esp32",
+          "architecture": "stm32f1",
+          "version": "1.0.0",
+          "category": "stm32",
+          "url": "/STM32F1-2020.1.17.zip",
+          "archiveFileName": "STM32F1-2020.1.17.zip",
+          "checksum": "SHA-256:1bab3a6c8027981182cfd61c8588503d69b7b92a9e2b547a8d4fb86a167ea4cf",
+          "size": "8953132",
+          "boards" : [
+                  { 
+                    "name" : "Generic STM32F103C series"
+                  }
+          ],
+          "toolsDependencies" : [
+                  
+                  {
+                     "version" : "4.8.3-2014q1",
+                     "name" : "arm-none-eabi-gcc",
+                     "packager" : "arduino"
+                  },
+                  {
+                     "version" : "2020.1.17",
+                     "name" : "stm32tools",
+                     "packager" : "stm32duino"
+                  }
+          ]
+        }
+      ]
+        ,
         {
           "name": "stm32_esp32",
           "architecture": "stm32f1",
