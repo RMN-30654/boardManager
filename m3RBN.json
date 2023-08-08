@@ -48,7 +48,7 @@
         {
           "name": "stm32_esp32",
           "architecture": "stm32f1",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "category": "stm32",
           "url": "https://github.com/RMN-30654/boardManager/blob/9bc154e56bce6b619e38d49b52529de0b36353d3/STM32F1.zip",
           "archiveFileName": "STM32F1.zip",
