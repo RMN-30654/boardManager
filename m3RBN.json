@@ -20,7 +20,7 @@
           "architecture": "stm32f1",
           "version": "1.0.0",
           "category": "stm32",
-          "url": "/STM32F1-2020.1.17.zip",
+          "url": "https://github.com/RMN-30654/boardManager/blob/234ef8b32101f253a580ecb5a4282eaedb0130c9/STM32F1-2020.1.17.zip",
           "archiveFileName": "STM32F1-2020.1.17.zip",
           "checksum": "SHA-256:1bab3a6c8027981182cfd61c8588503d69b7b92a9e2b547a8d4fb86a167ea4cf",
           "size": "8953132",
