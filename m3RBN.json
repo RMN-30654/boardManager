@@ -24,7 +24,7 @@
           "url": "https://github.com/RMN-30654/boardManager/blob/9bc154e56bce6b619e38d49b52529de0b36353d3/STM32F1.zip",
           "archiveFileName": "STM32F1-2020.1.17.zip",
           "checksum": "SHA-256:1bab3a6c8027981182cfd61c8588503d69b7b92a9e2b547a8d4fb86a167ea4cf",
-          "size": "8953132",
+          "size": "3506176",
           "boards" : [
                   { 
                     "name" : "Generic STM32F103C series"
