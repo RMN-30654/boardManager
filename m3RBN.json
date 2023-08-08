@@ -1,0 +1,30 @@
+{
+  "packages": [
+    {
+      "name": "m3RBN",
+      "maintainer": "RBN hobbist",
+      "platforms": [
+        {
+        "name": "esp32",
+        "architecture": "esp32",
+         "version": "1.0.0",
+        "category": "ESP32",
+        "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.11/esp32-2.0.11.zip",
+        "archiveFileName": "esp32-2.0.11.zip",
+        "checksum": "SHA-256:d15386308dc72f94816ce80b5508af999f2fd0d88eb5e1ffba48316ab0b9c5d6",
+        "size": "250401265"
+        },
+        {
+        "name": "esp32",
+          "architecture": "esp32",
+          "version": "1.0.1",
+          "category": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.10/esp32-2.0.10.zip",
+          "archiveFileName": "esp32-2.0.10.zip",
+          "checksum": "SHA-256:6028cb623c838723c41000869963d95f7cb811d58643133068eed31c03c2d7c0",
+          "size": "250401273"
+        }
+      ]
+    }
+  ]
+}
