@@ -21,7 +21,7 @@
           "architecture": "stm32f1",
           "version": "1.0.0",
           "category": "stm32",
-          "url": "http://dan.drown.org/stm…no/STM32F1-2020.1.17.zip",
+          "url": "http://dan.drown.org/stm32duino/STM32F1-2020.1.17.zip",
           "archiveFileName": "STM32F1-2020.1.17.zip",
           "checksum": "SHA-256:1bab3a6c8027981182cfd61c8588503d69b7b92a9e2b547a8d4fb86a167ea4cf",
           "size": "8953132",
